@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:aqua
+}
+nav a{
+    text-decoration: none;
+    margin-left: 15px;
+    
+}
+nav a:hover{
+    color: chartreuse;
+}

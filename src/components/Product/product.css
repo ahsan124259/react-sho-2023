@@ -1,0 +1,16 @@
+.product{
+    border: 2px solid ;
+    border-radius: 8px;
+    border: none;
+    
+}
+
+
+.product img{
+ width: 285px;
+ height: 285px;
+}
+.btn-add{
+    width: 100%;
+    background-color: antiquewhite;
+}
